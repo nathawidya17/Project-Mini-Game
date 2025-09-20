@@ -1,7 +1,7 @@
 # Project-Mini-Game
 
 ## Deskripsi
-Proyek ini adalah sebuah web aplikasi yang berisi kumpulan mini game sederhana. Dibuat sebagai bagian dari Capstone Project untuk mendemonstrasikan implementasi logika permainan dan interaksi dengan pengguna.
+Proyek ini adalah sebuah web aplikasi yang berisi mini game sederhana. Dibuat sebagai bagian dari Capstone Project untuk mendemonstrasikan implementasi logika permainan dan interaksi dengan pengguna.
 
 ## Teknologi yang Digunakan
 - HTML5
